@@ -1,0 +1,38 @@
+#main {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 40pt;
+  color: #708238;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #b7410e;
+  font-weight: 900;
+}
+
+.furniture {
+  padding: 10px;
+  border: solid;
+  color: #b7410e;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.description {
+  color: black;
+}
+
+.button {
+  margin-bottom: 5px;
+}
+
+#main-para {
+  margin-left: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 12pt;
+  margin-bottom: 20px;
+}
