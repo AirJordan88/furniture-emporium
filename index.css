@@ -5,20 +5,37 @@
   color: #708238;
   margin-left: 20px;
   margin-bottom: 0px;
+  text-align: right;
+  width: 550px;
 }
 
 h2 {
   font-family: sans-serif;
   color: #b7410e;
   font-weight: 900;
+  font-size: xx-large;
+  transform: scale(0.9,1);
+  margin-bottom: -10px;
 }
 
 .furniture {
   padding: 10px;
-  border: solid;
-  color: #b7410e;
+  border-style: inset;
+  border-left-color: #b7410e;
+  border-top-color: #b7410e;
+  border-right-color: #f0d9ce;
+  border-bottom-color: #f0d9ce;
+  border-left-width: 8px;
+  border-top-width: 5px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  color: #d38d6e;
+  background-color: #f0d9ce;
   margin-bottom: 20px;
   margin-left: 20px;
+  text-align: center;
+  width: 550px;
+  border-radius: 15px;
 }
 
 .description {
@@ -26,7 +43,7 @@ h2 {
 }
 
 .button {
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 #main-para {
@@ -34,5 +51,8 @@ h2 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 12pt;
+  text-align: center;
+  width: 600px;
   margin-bottom: 20px;
+  transform: scale(0.85,1)
 }
