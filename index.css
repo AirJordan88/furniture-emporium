@@ -42,7 +42,7 @@ h2 {
   text-align: center;
   width: 550px;
   border-radius: 15px;
-  box-shadow: 6px 6px 10px #cccccc;
+  box-shadow: 4px 4px 12px #cccccc;
 }
 
 .description {
@@ -51,8 +51,7 @@ h2 {
 
 button {
   margin-bottom: 8px;
-  background-color: yellow;
-  border-color: white;
+  border-color: #cccccc;
   border-radius: 5px;
   padding-left: 10px;
   padding-right: 10px;
